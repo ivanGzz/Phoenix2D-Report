@@ -1,0 +1,17 @@
+#Other files#
+#############
+*.DS_Store
+
+#Latex files#
+#############
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.pdf
+*.toc
+
+#Compressed files#
+##################
+*.gz
